@@ -13,6 +13,11 @@ Repositório com o intuito de realizar estudo em cima de design patterns applica
 ### Functional
   01. [Lazy Evaluation]()
 
+## Contributors
+
+Thank you for contributing to the GORM framework!
+
+[![Contributors](https://contrib.rocks/image?repo=panda-coder/go-design-patterns)](https://github.com/panda-coder/go-design-patterns/graphs/contributors)
 
 ## License
 
